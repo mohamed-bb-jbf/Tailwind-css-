@@ -1,3 +1,7 @@
 <div className="m-4 bg-blue-500">
   Hello
 </div>
+<div className="mt-4">Top</div>
+<div className="mb-4">Bottom</div>
+<div className="ml-4">Left</div>
+<div className="mr-4">Right</div>
