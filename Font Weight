@@ -1,1 +1,11 @@
+<p className="font-normal">
+  Normal
+</p>
 
+<p className="font-bold">
+  Bold
+</p>
+
+<p className="font-black">
+  Black
+</p>
